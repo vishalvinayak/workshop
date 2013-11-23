@@ -25,13 +25,14 @@ body
 .stolen-h1 {
     font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,sans-serif;
     font-weight: 100;
-    font-size: 64px;
+    font-size: 52px;
     color:white;
+    line-height: 65px;
 }
 
 h2 {
     font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,sans-serif;
     font-weight: 200;
-    font-size: 36px;
+    font-size: 30px;
     color:white;
 }
