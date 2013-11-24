@@ -44,3 +44,11 @@ label {
     color:white;
 
 }
+
+.error {
+
+    color: red;
+    display: block;
+    font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 100;
+}
